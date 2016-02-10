@@ -6,9 +6,10 @@ var count = 0
 process.stdin
   .pipe(split())
   .pipe(through(function uptick (line, _, done) {
+    console.log(line)
     var bracket_digit = /\[\d+/g
     var replacer = '[' + count
-    line.replace(bracket_digit, replacer)
+    line.toString().replace(bracket_digit, replacer)
     count++
     done()
   }))
