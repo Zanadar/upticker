@@ -12,8 +12,8 @@ Whatver [0] whatver[0]
 Whatver [0] whatver[0]
 Whatver [0] whatver[0]
 ```
-
-It produces output that looks like
+Run it as eg. `pbcopy | node run.js | pbcopy`
+It produces output that looks like this:
 ```
 Whatver [0] whatver[0]
 Whatver [1] whatver[1]
