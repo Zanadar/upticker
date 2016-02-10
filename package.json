@@ -1,0 +1,29 @@
+{
+  "name": "uptick",
+  "version": "0.0.17",
+  "description": "Increment numbers between square brackets.",
+  "main": "uptick.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanadar/upticker.git"
+  },
+  "keywords": [
+    "Nand2Tetris"
+  ],
+  "author": "@zanadar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zanadar/upticker/issues"
+  },
+  "homepage": "https://github.com/Zanadar/upticker#readme",
+  "dependencies": {
+    "split": "^1.0.0",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "tap": "^5.4.2"
+  }
+}
