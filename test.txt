@@ -1,19 +1,6 @@
-    Not(in=in[0], out=out[0]);
-    Not(in=in[1], out=out[1]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
-    Not(in=in[0], out=out[0]);
+Whatver [0] whatver[0]
+Whatver [1] whatver[1]
+Whatver [2] whatver[2]
+Whatver [3] whatver[3]
+Whatver [4] whatver[4]
 

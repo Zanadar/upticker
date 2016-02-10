@@ -1,7 +1,7 @@
 {
   "name": "uptick",
   "version": "0.0.17",
-  "description": "Increment numbers between square brackets.",
+  "description": "A transform function to Increment numbers between square brackets.",
   "main": "uptick.js",
   "scripts": {
     "test": "tap test.js"
